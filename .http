@@ -1,0 +1,5 @@
+# @name get-prompts
+post http://localhost:3333/videos
+
+###
+
